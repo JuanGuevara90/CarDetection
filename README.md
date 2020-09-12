@@ -10,6 +10,8 @@ prueba4.py
 ### Code Requirements
 - Opencv
 - Car XML(Available in repository)
+- haarcascade_car XML(Available in repository)
+- haarcascade_car2 XML(Available in repository)
 - Python Version 3.5
 
 
