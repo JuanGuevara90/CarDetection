@@ -7,6 +7,7 @@
 ### Code Requirements
 - Opencv
 - Car XML(Available in repository)
+- Python Version 3.5
 
 
 ### What steps you have to follow??
