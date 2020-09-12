@@ -8,11 +8,11 @@ def detect_cars(frame):
     return frame
     
 def Simulator():
-    CarVideo = cv2.VideoCapture('cars.mp4')
+    CarVideo = cv2.VideoCapture('cars.mp4') # Cambiar por el dispositivo de cámara
     while CarVideo.isOpened():
         ret, frame = CarVideo.read()
         controlkey = cv2.waitKey(1)
-        if ret:        
+        if ret: #En esta seccion se detecta el carro       
             cars_frame = detect_cars(frame)
             cv2.imshow('frame', cars_frame)
         else:
