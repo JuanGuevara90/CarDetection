@@ -1,0 +1,5 @@
+https://medium.com/analytics-vidhya/vehicle-car-detection-in-real-time-and-recorded-videos-in-python-windows-and-macos-c5548b243b18
+
+
+Este esta mejor !!! para encontrar en que momento esta el carro 
+https://kalebujordan.com/real-time-vehicle-detection-with-opencv-in-10-minutes/
